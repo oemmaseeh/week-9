@@ -1,0 +1,15 @@
+nav {
+    background-color: #000000;
+    padding: 20px;
+  }
+  
+  ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  li {
+    color: #a289e7;
+    cursor: pointer;
+  }
